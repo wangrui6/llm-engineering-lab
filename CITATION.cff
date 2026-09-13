@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "To cite these educational examples, cite this repository and the commit you used. Cite the original papers for the algorithms."
+title: "LLM Engineering Lab"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Rui
+repository-code: "https://github.com/wangrui6/llm-engineering-lab"
+license: MIT

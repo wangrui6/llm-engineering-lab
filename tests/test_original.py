@@ -1,0 +1,1 @@
+from examples.original_scoring_lab import MechanicsTests
